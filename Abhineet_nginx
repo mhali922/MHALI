@@ -7,5 +7,5 @@ metadata:
     tier: dev
 spec:
     containers:
-    -   name: nginx-container
+        name: nginx-container
         image: nginx
